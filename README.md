@@ -21,7 +21,7 @@ This repository contains several projects that utilize Power BI to transform raw
 #### 3. **Diversity & Inclusion Analysis**
 - **Objective:** Explore diversity and inclusion metrics within organizations, identifying key areas for improvement.
 - **Insights:** Offers insights into workforce composition and diversity-related trends.
-- **Link:** [View the Dashboard](https://github.com/ksharma1908/pwc-virutal-internship/tree/main/Task3_Diversity_and_Inclusion)
+- **Link:** [View the Dashboard](https://www.novypro.com/project/diversity--inclusion-analysis-dashboard)
 
 ## Certificate
 - [Completion Certificate](https://github.com/ksharma1908/pwc-virutal-internship/blob/main/PwC_Switzerland_Completion_Certificate.pdf)
