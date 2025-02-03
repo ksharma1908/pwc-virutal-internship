@@ -1,6 +1,6 @@
 # Diversity & Inclusion Analysis Dashboard
 
-## Demo
+## [Demo Live](https://project.novypro.com/pSXbkU)
 1. [Power BI File](https://github.com/ksharma1908/pwc-virutal-internship/blob/main/Task3_Diversity_and_Inclusion/Task3_Diversity_and_Inclusion.pbix)
 2. [Screenshots](https://github.com/ksharma1908/pwc-virutal-internship/tree/main/Task3_Diversity_and_Inclusion/Screenshots) | [Screenshot 1](https://github.com/ksharma1908/pwc-virutal-internship/blob/main/Task3_Diversity_and_Inclusion/Screenshots/screenshot_1.JPG) | [Screenshot 2](https://github.com/ksharma1908/pwc-virutal-internship/blob/main/Task3_Diversity_and_Inclusion/Screenshots/screenshot_2.JPG)
 3. [Data File](https://github.com/ksharma1908/pwc-virutal-internship/blob/main/Task3_Diversity_and_Inclusion/Task3_Diversity_and_Inclusion.xlsx)
