@@ -1,6 +1,6 @@
 # Customer Churn Analysis Dashboard
 
-## Demo
+## [Demo Live URL](https://www.novypro.com/project/customer-churn-analysis-dashboard-10)
 1. [Power BI File](https://github.com/ksharma1908/pwc-virutal-internship/blob/main/Task2_Customer_Churn_Retention/Task2_Customer_Churn_Retentions.pbix)
 2. [Screenshots](https://github.com/ksharma1908/pwc-virutal-internship/tree/main/Task2_Customer_Churn_Retention/Screenshots) | [Screenshot 1](https://github.com/ksharma1908/pwc-virutal-internship/blob/main/Task2_Customer_Churn_Retention/Screenshots/Screenshot_1.JPG) | [Screenshot 2](https://github.com/ksharma1908/pwc-virutal-internship/blob/main/Task2_Customer_Churn_Retention/Screenshots/Screenshot_2.JPG) | [Screenshot 3](https://github.com/ksharma1908/pwc-virutal-internship/blob/main/Task2_Customer_Churn_Retention/Screenshots/Screenshot_3.JPG) | [Screenshot 4](https://github.com/ksharma1908/pwc-virutal-internship/blob/main/Task2_Customer_Churn_Retention/Screenshots/Screenshot_4.JPG) | [Screenshot 5](https://github.com/ksharma1908/pwc-virutal-internship/blob/main/Task2_Customer_Churn_Retention/Screenshots/Screenshot_5.JPG)
 3. [Data File](https://github.com/ksharma1908/pwc-virutal-internship/blob/main/Task2_Customer_Churn_Retention/02_Churn_Dataset.xlsx)
