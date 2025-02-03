@@ -11,7 +11,7 @@ This repository contains several projects that utilize Power BI to transform raw
 #### 1. **Call Centre Trends Analysis**
    - **Objective:** Analyze call centre performance metrics such as customer satisfaction, call volumes, and agent efficiency.
    - **Insights:** Identifies areas for operational improvements to enhance customer experience and streamline call centre operations.
-   - **Link:** [View the Dashboard](https://github.com/ksharma1908/pwc-virutal-internship/tree/main/Task1_Call_Centre_Trend)
+   - **Link:** [View the Dashboard](https://www.novypro.com/project/call-centre-trends-analysis-dashboard-2)
 
 #### 2. **Customer Retention Strategies**
    - **Objective:** Predict customer churn and develop strategies to improve retention rates for a telecom company.
