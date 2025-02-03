@@ -16,7 +16,7 @@ This repository contains several projects that utilize Power BI to transform raw
 #### 2. **Customer Retention Strategies**
    - **Objective:** Predict customer churn and develop strategies to improve retention rates for a telecom company.
    - **Insights:** Visualizes customer loyalty metrics and suggests actionable strategies to enhance retention.
-   - **Link:** [View the Dashboard](https://github.com/ksharma1908/pwc-virutal-internship/tree/main/Task2_Customer_Churn_Retention)
+   - **Link:** [View the Dashboard](https://www.novypro.com/project/customer-churn-analysis-dashboard-10)
 
 #### 3. **Diversity & Inclusion Analysis**
 - **Objective:** Explore diversity and inclusion metrics within organizations, identifying key areas for improvement.
